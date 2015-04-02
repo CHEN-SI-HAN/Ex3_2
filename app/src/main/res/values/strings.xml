@@ -3,6 +3,6 @@
 
     <string name="hello_world">文字君</string>
     <string name="button">翻滾吧!</string>
-    <string name="button2">玩上癮停不了!!!</string>
+    <string name="button2">不玩了!</string>
     <string name="action_settings">Settings</string>
 </resources>

@@ -39,8 +39,8 @@ public class MainActivity extends ActionBarActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                AnimationSet animationSet = getAnimationSet();
-                animationSet.cancel();
+
+                textView.clearAnimation();
 
             }
         });
